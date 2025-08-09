@@ -8,3 +8,5 @@ apt install golang-go
 download and run https://github.com/PeterCullenBurbery/go-projects/raw/main/kali_linux/projects/enable_ssh/enable_ssh
 
 Assume the script as run as root.
+
+how would I download and run https://github.com/PeterCullenBurbery/kali-configuration/raw/main/how-would-I-bootstrap.sh?
