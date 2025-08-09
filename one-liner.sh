@@ -1,1 +1,1 @@
-sudo curl -L https://github.com/PeterCullenBurbery/kali-configuration/raw/main/how-would-I-bootstrap.sh | bash
+curl -L https://github.com/PeterCullenBurbery/kali-configuration/raw/main/how-would-I-bootstrap.sh | sudo bash
