@@ -1,0 +1,10 @@
+write a bash script that
+
+apt update -y
+apt upgrade -y
+
+apt install golang-go
+
+download and run https://github.com/PeterCullenBurbery/go-projects/raw/main/kali_linux/projects/enable_ssh/enable_ssh
+
+Assume the script as run as root.
