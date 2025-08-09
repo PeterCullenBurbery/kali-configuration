@@ -38,3 +38,13 @@ Microsoft Edge installation completed.
                                                                                                                                                                                                      
 ┌──(im_that_woman㉿kali-2025-008-008-021-059-012-451109500)-[~/…/GitHub-repositories/go-projects/kali_linux/projects]
 └─$
+
+install vs code
+
+┌──(im_that_woman㉿kali-2025-008-008-021-059-012-451109500)-[~/…/GitHub-repositories/go-projects/kali_linux/projects]
+└─$ ./install-vs-code/install-vs-code 
+2025/08/09 09:10:28 ❌ This program must be run as root. Use sudo.
+                                                                                                                                                                                                     
+┌──(im_that_woman㉿kali-2025-008-008-021-059-012-451109500)-[~/…/GitHub-repositories/go-projects/kali_linux/projects]
+└─$ sudo ./install-vs-code/install-vs-code
+
